@@ -32,7 +32,7 @@
 
 ## Решение
 
-![скриншот 1](https://github.com/Easyjetz/hw-03.md/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%821.png)
+![скриншот 1](https://github.com/Easyjetz/hw-03/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%821.png)
 
 
 ---
@@ -62,9 +62,9 @@
 
 
 
-![скриншот 2](https://github.com/Easyjetz/hw-03.md/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%822.png)
-![скриншот 3](https://github.com/Easyjetz/hw-03.md/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%823.png)
-![скриншот 4](https://github.com/Easyjetz/hw-03.md/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%824.png)
+
+![скриншот 2](https://github.com/Easyjetz/hw-03/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%822.png)
+![скриншот 3](https://github.com/Easyjetz/hw-03/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%823.png)
 
 ### Задание 4
 
@@ -77,4 +77,4 @@
 ## Решение
 
 
-![скриншот 5](https://github.com/Easyjetz/hw-03.md/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%825.png)
+![скриншот 4](https://github.com/Easyjetz/hw-03/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%824.png)
